@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "zoovies",
+    "slug": "zoovies",
+    "version": "1.0.0",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "userInterfaceStyle": "automatic"
+    },
+    "ios": {
+      "userInterfaceStyle": "automatic"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "zoovies"
+}
